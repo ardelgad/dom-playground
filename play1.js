@@ -1,0 +1,1 @@
+alert("Esto se muestra porque lo hemos cargado en el HTML. Recordad, es muy importante. El navegador RENDERIZA el HTML, y a medida que va encontrando recursos que debe cargar (CSS, imágenes, JavaScript); pide dicho recursos de nuevo al servidor")
