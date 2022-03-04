@@ -27,7 +27,8 @@ console.log(titulo.textContent)
   */
 
 /**
- * ¿Cúantos elementos va a recuperar esta llamada?
+ * ¿Cúantos elementos va a recuperar esta llamada? 
+ * 2
  */
 
 let elementosListaOrdenada = document.getElementsByClassName('elemento-lista')
